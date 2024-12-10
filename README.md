@@ -11,8 +11,8 @@ Mobile-Friendly Design: Uses CSS grid for a clean, responsive layout that looks 
 
 Files in the Repository
 index.html: The main HTML file containing the structure of the application.
-todo_list_2.css: Stylesheet for the Todo List application.
-todo_list_2.js: JavaScript file for the application's logic and dynamic updates.
+index.css: Stylesheet for the Todo List application.
+index.js: JavaScript file for the application's logic and dynamic updates.
 
 
 Code Explanation
